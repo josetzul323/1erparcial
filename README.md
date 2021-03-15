@@ -1,0 +1,3 @@
+# 1erparcial
+este repositorio contiene mi parcial 
+este es mi archivo readme de mi parcial.... 
